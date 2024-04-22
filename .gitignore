@@ -1,0 +1,43 @@
+# Ignorar archivos y directorios de configuración de usuario
+.bash_history
+.bash_logout
+.bashrc
+.zshrc
+.zsh_history
+.ssh/
+.gnupg/
+.config/
+.local/
+.cache/
+.pki/
+.docker/
+.dotnet/
+.keras/
+.vscode/
+.pyarmor/
+.fontconfig/
+.fonts/
+.viminfo
+.wget-hsts
+
+# Ignorar archivos de proyecto específicos y temporales
+.dockerfile.swp
+*log
+*swp
+*tmp
+
+# Directorios específicos del usuario
+Descargas/
+Documentos/
+Imágenes/
+VirtualBox VMs/
+snap/
+prueba1/
+alex/
+chat/
+mitrabajo/
+
+# Archivos del sistema y logs
+*.log
+*.zwc
+
