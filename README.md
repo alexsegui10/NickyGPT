@@ -24,7 +24,7 @@ Primero, clona este repositorio en tu máquina local usando Git:
 ```bash
 git clone https://github.com/tu-usuario/nickygpt.git
 cd NickyGPT
-Haz doble click sobre el ejecutable
+#Haz doble click sobre el ejecutable
 
 ```
 ### Problemas al ejecutar
@@ -35,3 +35,9 @@ NickyGPT_Windows.exe
 
 #Linux
 ./NickyGPT_Linux
+
+```
+Si asi tampoco se ejecuta instala las siguientes bibliotecas:
+```
+pip install requests
+pip install customtkinter
