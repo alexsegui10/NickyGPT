@@ -21,7 +21,7 @@ Asegúrate de tener Python instalado en tu sistema. Puedes descargarlo desde [py
 
 Primero, clona este repositorio en tu máquina local usando Git:
 
-bash
+```bash
 git clone https://github.com/tu-usuario/nickygpt.git
 cd nickygpt
 
