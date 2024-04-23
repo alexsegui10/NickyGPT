@@ -23,10 +23,15 @@ Primero, clona este repositorio en tu máquina local usando Git:
 
 ```bash
 git clone https://github.com/tu-usuario/nickygpt.git
-cd nickygpt
+cd NickyGPT
+Haz doble click sobre el ejecutable
 
+```
+### Problemas al ejecutar
+Si al ejecutar con docble click no se ha ejecutado escribe esto en el terminal:
+```
+#Windows
+NickyGPT_Windows.exe
 
-### Iniciar el prgrama
-NickyGPT_Windows.exe esribe esto en tu cmd desde Windows o pulsa soble clic sobre el ejecutable
-
-./NickyGPT_Linux esribe esto en tu terminal desde Linux o pulsa soble clic sobre el ejecutable
+#Linux
+./NickyGPT_Linux
